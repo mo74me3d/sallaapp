@@ -15,7 +15,7 @@
         "laravel/ui": "^4.0",
         "lorisleiva/laravel-actions": "^2.1",
         "salla/ouath2-merchant": "^1.0",
-        "tightenco/ziggy": "^1.0"
+        "tightenco/ziggy": "^2.5"
     },
     "require-dev": {
         "spatie/laravel-ignition": "^2.0",
